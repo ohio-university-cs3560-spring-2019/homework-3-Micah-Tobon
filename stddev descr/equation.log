@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  11 FEB 2019 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  11 FEB 2019 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -22,7 +22,8 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (./equation.aux)
+)
+No file equation.aux.
 \openout1 = `equation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -43,13 +44,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
- [1
+[1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./equation.aux) ) 
 Here is how much of TeX's memory you used:
- 222 strings out of 492649
- 2398 string characters out of 6129622
+ 220 strings out of 492649
+ 2372 string characters out of 6129622
  60009 words of memory out of 5000000
  4183 multiletter control sequences out of 15000+600000
  6683 words of font info for 24 fonts, out of 8000000 for 9000
@@ -60,7 +61,7 @@ ts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy10.pfb>
-Output written on equation.pdf (1 page, 37482 bytes).
+Output written on equation.pdf (1 page, 36935 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
