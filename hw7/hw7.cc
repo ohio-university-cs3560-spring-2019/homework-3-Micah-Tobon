@@ -1,3 +1,6 @@
+// Micah Tobon
+// Fall 2019
+// 3560
 #include <iostream>
 #include <cstdarg>
 #include <cmath>
